@@ -20,7 +20,7 @@
 &nbsp;
 <img align="center" src="assets/PostgreSQL.jpg" alt="PostgreSQL" height="40" width="40"/></a>
 &nbsp;
-<img align="center" src="assets/Redis.png" alt="Redis" height="40" width="40"/></a>
+<img align="center" src="assets/Redis.svg" alt="Redis" height="40" width="40"/></a>
 &nbsp;
 <img align="center" src="assets/RabbitMQ.png" alt="RabbitMQ" height="40" width="40"/></a>
 &nbsp;
@@ -32,11 +32,11 @@
 &nbsp;
 <img align="center" src="assets/Git.png" alt="Git" height="40" width="40"/></a>
 &nbsp;
-<img align="center" src="assets/Linux.png" alt="Linux" height="40" width="40"/></a>
+<img align="center" src="assets/Linux.webp" alt="Linux" height="38" width="40"/></a>
 &nbsp;
 <img align="center" src="assets/MacOS.png" alt="MacOS" height="40" width="40"/></a>
 &nbsp;
-<img align="center" src="assets/AWS.png" alt="AWS" height="40" width="40"/></a>
+<img align="center" src="assets/AWS.jpeg" alt="AWS" height="35" width="40"/></a>
 &nbsp;
 <img align="center" src="assets/Linode.png" alt="Linode" height="40" width="40"/></a>
 </p>
@@ -47,7 +47,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/yashdhasmana" target="_blank"><img align="center" src="assets/LinkedIn.png" alt="yashdhasmana" height="40" width="40"/></a>
 &nbsp;
-<a href="https://x.com/yshvrd" target="_blank"><img align="center" src="assets/Twitter.png" alt="yashdhasmana" height="40" width="40"/></a>
+<a href="https://x.com/yshvrd" target="_blank"><img align="center" src="assets/X.png" alt="yashdhasmana" height="40" width="40"/></a>
 </p>
 
 <br>
